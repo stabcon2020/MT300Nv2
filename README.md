@@ -3,7 +3,8 @@ Couldn't directly download when I was looking to downgrade my GL MT-300N V2 for 
 
 Still available through the Open WRT file directories if you search far enough, but to hopefully save some people the effort...
 
-Open WRT 19.07.7 for GL MT-300N v2 
+Open WRT 19.07.7 for GL MT-300N v2
+
 openwrt-19.07.7-ramips-mt76x8-gl-mt300n-v2-squashfs-sysupgrade.bin
 
 
